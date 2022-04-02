@@ -1,8 +1,4 @@
-
-from pdb import post_mortem
-
-
-class plato_de_comida}
+class plato_de_comida:
     def __init__(Self,verduras, frutas, cereales, tuberculos, lacteos, proteina, frutos_secos, tamaño_del_plato,tipo_de_plato,postre , bebida, maridaje, menu_dietetico, salsas):
         Self.verduras= verduras
         Self.frutas= frutas 
@@ -20,4 +16,4 @@ class plato_de_comida}
         Self.salsas= salsas
 
 
-Salmon_con_verduras (True,False,True,False,False,True,)
+Salmon_con_verduras=plato_de_comida(True,False,True,False,False,True,False,)
