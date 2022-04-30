@@ -1,0 +1,53 @@
+.parte_central{
+    background-color: gainsboro;
+    height: 500px;
+    display: flex;
+    flex-direction: row;  
+    
+    }
+    
+.parte_a{
+    background-color: bisque;
+    border: 4px solid goldenrod;
+    flex: 20;
+    display: flex;
+    flex-direction: column;
+}
+ .parte_b{
+    border: 4px solid goldenrod;
+    flex: 60;
+    display: flex;
+    flex-direction: column;
+
+ }
+.parte_b1{ 
+    background-color: lightcyan;
+    border: 4px solid goldenrod;
+    flex: 30;
+}
+.parte_b2{ 
+    background-color: lightcoral;
+    border: 4px solid goldenrod;
+    flex: 40;
+    display: flex;
+    flex-direction: row;
+}
+.parte_c1{
+    background-color: rgb(128, 240, 234);
+    border: 4px solid goldenrod;
+    flex: 50;
+}
+.parte_d1{
+    background-color: rgb(128, 240, 234);
+    border: 4px solid goldenrod;
+    flex: 20;
+}
+.parte_d2{
+    background-color: bisque;
+    border: 4px solid goldenrod;
+    flex: 80;
+}
+    
+
+
+ 
