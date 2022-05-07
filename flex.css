@@ -1,53 +1,80 @@
 .parte_central{
-    background-color: gainsboro;
+    background-color: darkorange;
     height: 500px;
     display: flex;
-    flex-direction: row;  
-    
-    }
-    
+    flex-direction: row;
+}
+
 .parte_a{
-    background-color: bisque;
-    border: 4px solid goldenrod;
+    background-color:lightcyan;
+    border: 4px solid purple;
     flex: 20;
     display: flex;
     flex-direction: column;
 }
- .parte_b{
-    border: 4px solid goldenrod;
+
+.parte_b{
+    background-color: rgba(232, 255, 127, 0.555);
+    border: 4px solid purple;
     flex: 60;
     display: flex;
     flex-direction: column;
-
- }
-.parte_b1{ 
-    background-color: lightcyan;
-    border: 4px solid goldenrod;
-    flex: 30;
 }
-.parte_b2{ 
-    background-color: lightcoral;
-    border: 4px solid goldenrod;
+
+
+
+.parte_b1{
+    border: 4px solid red;
+    flex: 30;
+    display: flex;
+    flex-direction: row;
+}
+
+.parte_b2{
+    border: 4px solid blueviolet;
     flex: 40;
     display: flex;
     flex-direction: row;
 }
-.parte_c1{
-    background-color: rgb(128, 240, 234);
-    border: 4px solid goldenrod;
+
+
+
+.parte_bD{
+    border: 4px solid black;
     flex: 50;
 }
+
+.parte_bI{
+    border: 4px solid black;
+    flex: 50;
+}
+
 .parte_d1{
-    background-color: rgb(128, 240, 234);
-    border: 4px solid goldenrod;
+    background-color: blueviolet;
+    border: 4px solid rgb(0, 140, 255);
     flex: 20;
 }
+
 .parte_d2{
-    background-color: bisque;
-    border: 4px solid goldenrod;
+    border: 4px solid rgb(0, 140, 255);
     flex: 80;
 }
-    
 
+.parte_e1{
+    border: 4px solid lightgreen;
+    flex: 45;
+}
+
+.parte_e2{
+    background-color: blueviolet;
+    border: 4px solid lightgreen;
+    flex: 10;
+}
+
+.parte_e3{
+    background-color: blueviolet;
+    border: 4px solid lightgreen;
+    flex: 20;
+}
 
  
